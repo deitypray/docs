@@ -1,6 +1,6 @@
 # Frequently asked questions
 
-### Linera is the fastest blockchain, why CheCko need to wait sometimes?
+### Linera is the fastest blockchain, why does CheCko need to wait sometimes?
 
 As we already described, Linera is the fastest blockchain, but at this moment, CheCko is focused on building a workable version of the Linera Chrome extension wallet, and the implementation may be not optimal. We will continue to optimize this.
 
